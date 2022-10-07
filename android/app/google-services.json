@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449388242994",
+    "project_id": "mayank-bhia-project",
+    "storage_bucket": "mayank-bhia-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449388242994:android:22094739a15cd360fef42b",
+        "android_client_info": {
+          "package_name": "com.example.on_boarding_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449388242994-lotna7avlkm2sps5u31fe77ctb52l5sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7npOGTGq0p_0P6Ek3sYwtUv1Op3Bufy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449388242994-lotna7avlkm2sps5u31fe77ctb52l5sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
